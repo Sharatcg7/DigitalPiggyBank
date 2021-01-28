@@ -14,13 +14,16 @@
 money is present in the bank
 
 
-## Installation 
+## Installation and Run
 
 Clone the repository:
 
 	git clone https://github.com/Sharatcg7/DigitalPiggyBank.git
-	
 
+Run:
+	cd src/driver/ThreadClient.java
+	run as Java Application
+	
 #### About Me
 
 **Sharat Gujamagadi** Email <sharatcg7@gmail.com>. 
