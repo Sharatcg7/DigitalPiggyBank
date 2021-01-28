@@ -6,7 +6,7 @@
 
 ## Usage / Features
 
-###### Digital-Piggy-Bank is a simple Digital Bank with Deposit and Withdrawal facility which can service following requests :
+### Digital-Piggy-Bank is a simple Digital Bank with Deposit and Withdrawal facility which can service following requests :
 
 1.  One thread - DEPOSIT shall deposit money to an account 
 
