@@ -18,7 +18,7 @@ money is present in the bank
 
 Clone the repository:
 
-	git clone 
+	git clone https://github.com/Sharatcg7/DigitalPiggyBank.git
 	
 
 #### About Me
